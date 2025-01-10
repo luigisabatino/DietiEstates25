@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.dietiestates25.dietiestates25/com.dietiestates25.dietiestates25.HelloApplication
+                                com.dietiestates25.dietiestates25/com.dietiestates25.dietiestates25.View.LoginView
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
